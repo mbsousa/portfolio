@@ -1,0 +1,38 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Boostrap",
+      "imageSrc": "skills/bootstrap.png"
+    },
+    {
+      "title": "Javascript",
+      "imageSrc": "skills/js.png"
+    },
+    {
+      "title": "Django",
+      "imageSrc": "skills/django.png"
+    },
+    {
+      "title": "FastAPI",
+      "imageSrc": "skills/fastapi.png"
+    },
+    {
+         "title": "Python",
+        "imageSrc": "skills/python.png"
+    },
+    {
+        "title": "SQL",
+       "imageSrc": "skills/sql-server.png"
+   }
+  ]
