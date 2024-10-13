@@ -1,3 +1,3 @@
 # Portfolio 
 
-> Status: em desenvolvimento 👩🏻‍💻
+> Status: Finalizado ✅
