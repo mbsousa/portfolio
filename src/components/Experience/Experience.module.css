@@ -28,6 +28,11 @@
   display: flex;
   flex-wrap: wrap;
   gap: 37px;
+  justify-content: center;
+
+  /* width: 100%;
+    flex-direction: row;
+    justify-content: center; */
 }
 
 .skill {

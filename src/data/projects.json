@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Lista de Tarefas",
+      "imageSrc": "projects/list.png",
+      "description": "Uma aplicação web desenvolvida para gerenciar tarefas de forma simples e eficiente.",
+      "skills": ["Django", "Bootstrap", "HTML/CSS"],
+      "demo": "https://list-to-do-31.onrender.com/",
+      "source": "https://github.com/mbsousa/list-to-do"
+    },
+    {
+      "title": "Gerador de senha",
+      "imageSrc": "projects/generate.png",
+      "description": "Um gerador de senhas. Este projeto permite que os usuários gerem senhas aleatórias.",
+      "skills": ["HTML/CSS", "Javascript"],
+      "demo": "https://generate-password.onrender.com/",
+      "source": "https://github.com/mbsousa/generate-password"
+    },
+    {
+      "title": "Cálculo do Peso Ideal",
+      "imageSrc": "projects/imc.png",
+      "description": "Um aplicativo web e interativo que calcula seu peso corporal ideal com base na altura e no sexo.",
+      "skills": ["Javascript","HTML/CSS", "Bootstrap"],
+      "demo": "https://peso-ideal.onrender.com/",
+      "source": "https://github.com/mbsousa/peso-ideal"
+    }
+  ]
