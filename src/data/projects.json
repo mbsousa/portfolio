@@ -19,7 +19,7 @@
       "title": "Cálculo do Peso Ideal",
       "imageSrc": "projects/imc.png",
       "description": "Um aplicativo web e interativo que calcula seu peso corporal ideal com base na altura e no sexo.",
-      "skills": ["Javascript","HTML/CSS", "Bootstrap"],
+      "skills": ["Bootstrap","HTML/CSS","Javascript"],
       "demo": "https://peso-ideal.onrender.com/",
       "source": "https://github.com/mbsousa/peso-ideal"
     }
